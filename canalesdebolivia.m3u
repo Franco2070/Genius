@@ -1,5 +1,191 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eg-retro-3.png" group-title="NeoTV" tvg-id="EnerGeek" tvg-name="EnerGeek Retro", EnerGeek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/fanpop-tv.png" group-title="NeoTV" tvg-id="FanpopTV" tvg-name="Fanpop TV", Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="NeoTV" tvg-id="EnerGeekRadio" tvg-name="EnerGeek Radio", EnerGeek Radio
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/modoradio.png" group-title="NeoTV" tvg-id="ModoRadioTV" tvg-name="Modoradio TV", Modoradio TV
+https://wifispeed.trapemn.tv:1936/energeek/modoradio-p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="NeoTV" tvg-id="KanadeTV" tvg-name="Kanade", Kanade
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="NeoTV" tvg-id="DreikoTV" tvg-name="Dreiko TV", Dreiko TV
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="NeoTV" tvg-id="LatinoKids" tvg-name="Latino Kids TV", Latino Kids TV
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="NeoTV" tvg-id="VariedTV" tvg-name="Varied TV", Varied TV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lanco-television.png" group-title="NeoTV" tvg-id="LancoTV" tvg-name="Lanco Televisión", Lanco Televisión
+https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/vconline.png" group-title="NeoTV" tvg-id="VCONLINE" tvg-name="VCONLINE", VCONLINE
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eva-television.png" group-title="NeoTV" tvg-id="EvaTV" tvg-name="Eva Televisión", Eva Televisión
+https://stream.skarnetchile.com:19360/evatelevision/evatelevision.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/tvo-nuevo.png" group-title="NeoTV" tvg-id="TVOSanVicente" tvg-name="TVO San Vicente", TVO San Vicente
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/tvm.png" group-title="NeoTV" tvg-id="TVM" tvg-name="TVM", TVM
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/suyai-tv.png" group-title="NeoTV" tvg-id="SuyaiTV" tvg-name="Suyai Televisión", Suyai Televisión
+https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/fantasia-tv.png" group-title="NeoTV" tvg-id="FantasiaTV" tvg-name="Fantasia TV", Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="NeoTV" tvg-id="ZTV" tvg-name="Z Anime", Z Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/canal-rex.png" group-title="NeoTV" tvg-id="CanalRex" tvg-name="Canal Rex", Canal Rex
+https://v4.tustreaming.cl/canalrex/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/punto-99.png" group-title="NeoTV" tvg-id="Punto99" tvg-name="Punto 99", Punto 99
+https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/caldera-vision.png" group-title="NeoTV" tvg-id="CalderaVision" tvg-name="Caldera Visión", Caldera Visión
+https://us.streaminghd.cl/calderavisiontv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ruidostv.png" group-title="NeoTV" tvg-id="RuidosTV" tvg-name="Ruidos TV", Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/crtv-chile.png" group-title="NeoTV" tvg-id="CRTVCL" tvg-name="CRTV Chile", CRTV Chile
+https://vdo.panelstreaming.live:3058/live/crtvlive.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/autonoma-tv.png" group-title="NeoTV" tvg-id="AutonomaTV" tvg-name="Autonoma TV", Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/onda-radio-tv.png" group-title="NeoTV" tvg-id="OndaRadioTV" tvg-name="Onda Radio TV", Onda Radio TV
+https://tv.streaming-chile.com:8081/ondaradiotv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/estacion-retro.png" group-title="NeoTV" tvg-id="EstacionRetro" tvg-name="Estación Retro", Estación Retro
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/estacion-retro.png" group-title="NeoTV" tvg-id="BigCh" tvg-name="Big Channel", Big Channel
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/maximatv.png" group-title="NeoTV" tvg-id="MaximaTV" tvg-name="Maxima TV", Maxima TV
+https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="NeoTV" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="NeoTV" tvg-id="MasCine" tvg-name="+ Cine", + Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="NeoTV" tvg-id="TerrorTV" tvg-name="Terror TV", Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="NeoTV" tvg-id="AniRetro" tvg-name="AniRetro", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="NeoTV" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/acs-network-tv.png" group-title="NeoTV" tvg-id="ACSNetwork" tvg-name="ACS Network", ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="NeoTV" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/canal-2-quellon.png" group-title="NeoTV" tvg-id="Canal2Quellon" tvg-name="Canal 2 Quellón", Canal 2 Quellón
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/platzi-tv.png" group-title="NeoTV" tvg-id="Platzi" tvg-name="Platzi TV", Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/spectrum-channel.png" group-title="NeoTV" tvg-id="SpectrumTV" tvg-name="Spectrum Channel", Spectrum Channel
+https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/origentv.png" group-title="NeoTV" tvg-id="Origen-TV" tvg-name="Origen TV", Origen TV
+https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lim-tv.png" group-title="NeoTV" tvg-id="InvasivaTV" tvg-name="Invasiva TV", Invasiva TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dvc-television.png" group-title="NeoTV" tvg-id="DVCTV" tvg-name="DVC Televisión", DVC Televisión
+https://us.streaminghd.cl/dvctelevision/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/canal-5-arg.png" group-title="NeoTV" tvg-id="Canal5ARG" tvg-name="Canal 5 del Pueblo", Canal 5 del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/emanuel7-tv.png" group-title="NeoTV" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", Emanuel7 TV
+https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/elekta-channel.png" group-title="NeoTV" tvg-id="ZappixMedia" tvg-name="Elekta Channel", Elekta Channel
+https://streaming-cl.sh1ny.space/memfs/2b595c57-70e3-41fc-acbd-29e3443c7cee.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/zerofilms.png" group-title="NeoTV" tvg-id="ZeroFilms" tvg-name="ZeroFilms Televisión", ZeroFilms Televisión
+https://ssh101-fl.bozztv.com/ssh101/canalzerofilms/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/austral-ar.png" group-title="NeoTV" tvg-id="AustralTelevision" tvg-name="Austral Argentina", Austral Argentina
+https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="NeoTV" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lrptv.png" group-title="NeoTV" tvg-id="LRP" tvg-name="LRP Televisión", LRP Televisión
+https://v2.tustreaming.cl/lrp/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/voiceOver-radiotv.png" group-title="NeoTV" tvg-id="VoiceOverRadio" tvg-name="VoiceOver Radio TV", VoiceOver Radio TV
+https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/radio-carolina.png" group-title="NeoTV" tvg-id="RadioCarolina" tvg-name="Radio Carolina", Radio Carolina
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/radio-portales.png" group-title="NeoTV" tvg-id="RadioPortales" tvg-name="Radio Portales", Radio Portales
+https://cdn.oneplaychile.cl:1936/radios/radioportales/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/autonoma-tv.png" group-title="NeoTV" tvg-id="AutonomaRadio" tvg-name="Autonoma Radio", Autonoma Radio
+https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/maxima-radio.png" group-title="NeoTV" tvg-id="MaximaRadio" tvg-name="Maxima Raadio", Maxima Radio
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/mas-fm.png" group-title="NeoTV" tvg-id="MasFM" tvg-name="Más FM", Más FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="NeoTV" tvg-id="KpopTV" tvg-name="Kpop TV", Kpop TV
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/sicardi-tv.png" group-title="NeoTV" tvg-id="SicardiTV" tvg-name="Sicardi TV", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/umag-2.png" group-title="NeoTV" tvg-id="UMAG2" tvg-name="UMAG 2", UMAG 2
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/radio-zeta.png" group-title="NeoTV" tvg-id="RadioZ" tvg-name="Radio Zeta", Radio Zeta
+https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/subela-radio.png" group-title="NeoTV" tvg-id="Subela" tvg-name="Subela Radio", Subela Radio
+https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/planetaTV-music.png" group-title="NeoTV" tvg-id="PlanetaTV" tvg-name="PlanetaTV", PlanetaTV
+https://scl.edge.grupoz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/magic-kids.png" group-title="NeoTV" tvg-id="MagicKids" tvg-name="Magic Kids", Magic Kids
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/clicktv.png" group-title="NeoTV" tvg-id="ClickTV" tvg-name="ClickTV", ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/canal-2-san-antonio.png" group-title="NeoTV" tvg-id="Canal2SanAntonio" tvg-name="Canal 2 San Antonio", Canal 2 San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/castrotv.png" group-title="NeoTV" tvg-id="CastroTV" tvg-name="Castro Municipio TV", Castro Municipio TV
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="NeoTV" tvg-id="BayresTV" tvg-name="BayresTV", BayresTV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="NeoTV" tvg-id="GenTV" tvg-name="GenTV Digital", GenTV Digital
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/telemax.png" group-title="NeoTV" tvg-id="TeleMAX" tvg-name="TeleMAX", TeleMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/el-3-de-conce.png" group-title="NeoTV" tvg-id="El3DeConce" tvg-name="El 3 de Conce", El 3 de Conce
+https://us.streaminghd.cl/el3deconce/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/la-granja-tv.png" group-title="NeoTV" tvg-id="LaGranjaTV" tvg-name="La Granja TV", La Granja TV
+https://oracle.streaminghd.cl/8126/8126/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/pichilemu-tv.png" group-title="NeoTV" tvg-id="PichilemuTV" tvg-name="Pichilemu TV", Pichilemu TV
+https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="NeoTV" tvg-id="TaltalTV" tvg-name="Taltal TV", Taltal TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/supersonika.png" group-title="NeoTV" tvg-id="SuperSonikaFM" tvg-name="SuperSonika FM", SuperSonika FM
+https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/veo-tv.png" group-title="NeoTV" tvg-id="VeoTV" tvg-name="Veo TV", Veo TV
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/sextavision.png" group-title="NeoTV" tvg-id="Sextavision" tvg-name="Sextavisión", Sextavisión
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/santa-maria-tv.png" group-title="NeoTV" tvg-id="SantaMariaTV" tvg-name="Santa Maria TV", Santa Maria TV
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/net-tv.png" group-title="NeoTV" tvg-id="NetTV" tvg-name="Net TV", Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/telezion.png" group-title="NeoTV" tvg-id="Telezion" tvg-name="Telezion", Telezion
+https://paneltv.net:3751/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/retroplay-tv.png" group-title="NeoTV" tvg-id="RetroPlayTV" tvg-name="RetroPlay TV", RetroPlay TV
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/estacion-tv.svg" group-title="NeoTV" tvg-id="EstacionTV" tvg-name="Estación TV", Estación TV
+https://v4.tustreaming.cl/limachemovil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/caracola-tv.png" group-title="NeoTV" tvg-id="CaracolaTV" tvg-name="Caracola TV", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/solo-standup.png" group-title="NeoTV" tvg-id="SoloStandUp" tvg-name="Solo StandUp", Solo StandUp
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="NeoTV" tvg-id="UCVTV" tvg-name="UCV Televisión", UCV Televisión
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="NeoTV" tvg-id="UCVE" tvg-name="UCV Eventos", UCV Eventos
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png" group-title="NeoTV" tvg-id="NeoTVD" tvg-name="NeoTV Digital", NeoTV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="NeoTV" tvg-id="NextHD" tvg-name="Next HD", Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/NTV.svg" group-title="NeoTV" tvg-id="NTV" tvg-name="NTV", NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/uchile-tv.png" group-title="NeoTV" tvg-id="UChileTV" tvg-name="UChile TV", UChile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/nativatv.png" group-title="NeoTV" tvg-id="NativaTV" tvg-name="Nativa TV", Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/vision-plus-tv.png" group-title="NeoTV" tvg-id="VisionPlusTV" tvg-name="Visión Plus TV", Visión Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ziza-tv.png" group-title="NeoTV" tvg-id="ZIZATV" tvg-name="ZIZA TV", ZIZA TV
+https://v2.tustreaming.cl/zizatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/americatv-chile.png" group-title="NeoTV" tvg-id="AmericaTVCL" tvg-name="AmericaTV Chile", AmericaTV Chile
+https://v2.tustreaming.cl/radioamericatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/tvmas.svg" group-title="NeoTV" tvg-id="TVMAS" tvg-name="TV+", TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/contivision.png" group-title="NeoTV" tvg-id="Contivision" tvg-name="Contivisión", Contivisión
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/chilevisual.png" group-title="NeoTV" tvg-id="ChileVisualCl" tvg-name="Chilevisual Classic", Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="RED UNO LPZ" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 https://live-b.cf.dmcdn.net/sec2(aNa-PXaqNN3YNAyMdlMh_OQ8Mn2pm1KzRIIpFIJqGo366R_fzLGDWUug4gI71_1o77W3CxWNFas6AnQtnz6CVLX_BEPUV00CGhzCkXNrU5E)/dm/3/x8vzlqi/d/live-720.m3u8
 
