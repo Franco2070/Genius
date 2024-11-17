@@ -86,76 +86,32 @@ https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/ZTV.png" group-title="Chile" tvg-id="ZTV" tvg-name="Z Anime", Z Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/canal-rex.png" group-title="Chile" tvg-id="CanalRex" tvg-name="Canal Rex", Canal Rex
-https://v4.tustreaming.cl/canalrex/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/punto-99.png" group-title="Chile" tvg-id="Punto99" tvg-name="Punto 99", Punto 99
-https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/caldera-vision.png" group-title="Chile" tvg-id="CalderaVision" tvg-name="Caldera Visión", Caldera Visión
 https://us.streaminghd.cl/calderavisiontv/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/ruidostv.png" group-title="Chile" tvg-id="RuidosTV" tvg-name="Ruidos TV", Ruidos TV
 https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/crtv-chile.png" group-title="Chile" tvg-id="CRTVCL" tvg-name="CRTV Chile", CRTV Chile
-https://vdo.panelstreaming.live:3058/live/crtvlive.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/autonoma-tv.png" group-title="Chile" tvg-id="AutonomaTV" tvg-name="Autonoma TV", Autonoma TV
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/onda-radio-tv.png" group-title="Chile" tvg-id="OndaRadioTV" tvg-name="Onda Radio TV", Onda Radio TV
-https://tv.streaming-chile.com:1936/ondaradiotv/ondaradiotv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/big-tv.png" group-title="Chile" tvg-id="BigTV" tvg-name="Big TV", Big TV
-https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/maximatv.png" group-title="Chile" tvg-id="MaximaTV" tvg-name="Maxima TV", Maxima TV
-https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/aniretro.png" group-title="Chile" tvg-id="AniRetro" tvg-name="AniRetro", AniRetro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/lms.png" group-title="Chile" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
-https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/acs-network-tv.png" group-title="Chile" tvg-id="ACSNetwork" tvg-name="ACS Network", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/gogoplay-tv.png" group-title="Chile" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/canal-2-quellon.png" group-title="Chile" tvg-id="Canal2Quellon" tvg-name="Canal 2 Quellón", Canal 2 Quellón
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/platzi-tv.png" group-title="Chile" tvg-id="Platzi" tvg-name="Platzi TV", Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/origentv.png" group-title="Chile" tvg-id="Origen-TV" tvg-name="Origen TV", Origen TV
-https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/lim-tv.png" group-title="Chile" tvg-id="InvasivaTV" tvg-name="Invasiva TV", Invasiva TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/dvc-television.png" group-title="Chile" tvg-id="DVCTV" tvg-name="DVC Televisión", DVC Televisión
 https://us.streaminghd.cl/dvctelevision/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/canal-5-arg.png" group-title="Chile" tvg-id="Canal5ARG" tvg-name="Canal 5 del Pueblo", Canal 5 del Pueblo
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/emanuel7-tv.png" group-title="Chile" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", Emanuel7 TV
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/elekta-channel.png" group-title="Chile" tvg-id="ZappixMedia" tvg-name="Elekta Channel", Elekta Channel
-https://streaming-cl.sh1ny.space/memfs/2b595c57-70e3-41fc-acbd-29e3443c7cee.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/zerofilms.png" group-title="Chile" tvg-id="ZeroFilms" tvg-name="ZeroFilms Televisión", ZeroFilms Televisión
-https://ssh101-fl.bozztv.com/ssh101/canalzerofilms/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/austral-ar.png" group-title="Chile" tvg-id="AustralTelevision" tvg-name="Austral Argentina", Austral Argentina
-https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/max-anime-3-c.png" group-title="Chile" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/lrptv.png" group-title="Chile" tvg-id="LRP" tvg-name="LRP Televisión", LRP Televisión
 https://v2.tustreaming.cl/lrp/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/voiceOver-radiotv.png" group-title="Chile" tvg-id="VoiceOverRadio" tvg-name="VoiceOver Radio TV", VoiceOver Radio TV
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/radio-carolina.png" group-title="Chile" tvg-id="RadioCarolina" tvg-name="Radio Carolina", Radio Carolina
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/radio-portales.png" group-title="Chile" tvg-id="RadioPortales" tvg-name="Radio Portales", Radio Portales
-https://cdn.oneplaychile.cl:1936/radios/radioportales/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/autonoma-tv.png" group-title="Chile" tvg-id="AutonomaRadio" tvg-name="Autonoma Radio", Autonoma Radio
 https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/maxima-radio.png" group-title="Chile" tvg-id="MaximaRadio" tvg-name="Maxima Raadio", Maxima Radio
-https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/mas-fm.png" group-title="Chile" tvg-id="MasFM" tvg-name="Más FM", Más FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-logo="https://Chile.cl/assets/img/channels/kpop-tv.png" group-title="Chile" tvg-id="KpopTV" tvg-name="Kpop TV", Kpop TV
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/sicardi-tv.png" group-title="Chile" tvg-id="SicardiTV" tvg-name="Sicardi TV", Sicardi TV
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/umag-2.png" group-title="Chile" tvg-id="UMAG2" tvg-name="UMAG 2", UMAG 2
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/radio-zeta.png" group-title="Chile" tvg-id="RadioZ" tvg-name="Radio Zeta", Radio Zeta
-https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/subela-radio.png" group-title="Chile" tvg-id="Subela" tvg-name="Subela Radio", Subela Radio
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/planetaTV-music.png" group-title="Chile" tvg-id="PlanetaTV" tvg-name="PlanetaTV", PlanetaTV
@@ -166,78 +122,53 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/canal-2-san-antonio.png" group-title="Chile" tvg-id="Canal2SanAntonio" tvg-name="Canal 2 San Antonio", Canal 2 San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/castrotv.png" group-title="Chile" tvg-id="CastroTV" tvg-name="Castro Municipio TV", Castro Municipio TV
-https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/el-3-de-conce.png" group-title="Chile" tvg-id="El3DeConce" tvg-name="El 3 de Conce", El 3 de Conce
 https://us.streaminghd.cl/el3deconce/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/la-granja-tv.png" group-title="Chile" tvg-id="LaGranjaTV" tvg-name="La Granja TV", La Granja TV
-https://oracle.streaminghd.cl/8126/8126/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/pichilemu-tv.png" group-title="Chile" tvg-id="PichilemuTV" tvg-name="Pichilemu TV", Pichilemu TV
 https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/taltal-tv.png" group-title="Chile" tvg-id="TaltalTV" tvg-name="Taltal TV", Taltal TV
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/supersonika.png" group-title="Chile" tvg-id="SuperSonikaFM" tvg-name="SuperSonika FM", SuperSonika FM
 https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/veo-tv.png" group-title="Chile" tvg-id="VeoTV" tvg-name="Veo TV", Veo TV
-https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/sextavision.png" group-title="Chile" tvg-id="Sextavision" tvg-name="Sextavisión", Sextavisión
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/santa-maria-tv.png" group-title="Chile" tvg-id="SantaMariaTV" tvg-name="Santa Maria TV", Santa Maria TV
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/net-tv.png" group-title="Chile" tvg-id="NetTV" tvg-name="Net TV", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/telezion.png" group-title="Chile" tvg-id="Telezion" tvg-name="Telezion", Telezion
-https://paneltv.net:3751/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/estacion-tv.svg" group-title="Chile" tvg-id="EstacionTV" tvg-name="Estación TV", Estación TV
 https://v4.tustreaming.cl/limachemovil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/caracola-tv.png" group-title="Chile" tvg-id="CaracolaTV" tvg-name="Caracola TV", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/solo-standup.png" group-title="Chile" tvg-id="SoloStandUp" tvg-name="Solo StandUp", Solo StandUp
-https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/ucv-television.png" group-title="Chile" tvg-id="UCVTV" tvg-name="UCV Televisión", UCV Televisión
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/ucv-television.png" group-title="Chile" tvg-id="UCVE" tvg-name="UCV Eventos", UCV Eventos
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/Chile-digital.png" group-title="Chile" tvg-id="ChileD" tvg-name="Chile Digital", Chile Digital
-https://videostream.shockmedia.com.ar:19360/Chiledigital/Chiledigital.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/next-hd-2.png" group-title="Chile" tvg-id="NextHD" tvg-name="Next HD", Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/NTV.svg" group-title="Chile" tvg-id="NTV" tvg-name="NTV", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/uchile-tv.png" group-title="Chile" tvg-id="UChileTV" tvg-name="UChile TV", UChile TV
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/nativatv.png" group-title="Chile" tvg-id="NativaTV" tvg-name="Nativa TV", Nativa TV
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/vision-plus-tv.png" group-title="Chile" tvg-id="VisionPlusTV" tvg-name="Visión Plus TV", Visión Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/ziza-tv.png" group-title="Chile" tvg-id="ZIZATV" tvg-name="ZIZA TV", ZIZA TV
-https://v2.tustreaming.cl/zizatv/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/americatv-chile.png" group-title="Chile" tvg-id="AmericaTVCL" tvg-name="AmericaTV Chile", AmericaTV Chile
 https://v2.tustreaming.cl/radioamericatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/tvmas.svg" group-title="Chile" tvg-id="TVMAS" tvg-name="TV+", TV+
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/contivision.png" group-title="Chile" tvg-id="Contivision" tvg-name="Contivisión", Contivisión
-https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/chilevisual.png" group-title="Chile" tvg-id="ChileVisualCl" tvg-name="Chilevisual Classic", Chilevisual Classic
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
-http://186.121.206.197/live/daniel/index.m3u8
-
+#EXTINF:-1 tvg-name="Unitel" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="CANALES DE BOLIVIA", Unitel
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Megavision" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",Megavision
+https://video.live.com.bo:3999/live/megavisionlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-name="BOLIVISION LPZ" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-name="CADENA A"tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
 #EXTINF:-1 tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.2 HD
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-
+#EXTINF:-1 tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.2 
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-name="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://video.live.com.bo:3003/live/tvuumsalive.m3u8
-
 #EXTINF:-1 tvg-name="SEO TV"tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV 
 https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
 #EXTINF:-1 tvg-name="SEO TV Novelas"tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV Novelas
@@ -246,147 +177,79 @@ https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1 tvg-name="SEO TV Deportes" tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV Deportes
 https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
-
 #EXTINF:-1 tvg-name="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",ABYA YALA TV HD
-https://master.tucableip.com/abyayalatv/playlist.m3u8
-
+https://seo.tv.bo/tv/IPSEO-TV-8.m3u8
 #EXTINF:-1 tvg-name="TV LATINA" tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="CANALES DE BOLIVIA",TV LATINA HD
-https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
-
-
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-name="MARVISION" tvg-logo="https://i.ibb.co/kgsD31N/MARKVISION-HD.jpg" group-title="CANALES DE BOLIVIA",MARKVISION TV HD
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
-
 #EXTINF:-1 tvg-name="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
-https://video.live.com.bo:3099/live/f10hdlive.m3u8
-
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-
 #EXTINF:-1 tvg-name="PUNATA HD" tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE PUNATA HD
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
-
 #EXTINF:-1 tvg-name="CEACOM HD" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="CANALES DE BOLIVIA",FTV HD
-https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="UNIVALLE TV" tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="CANALES DE BOLIVIA",UNIVALLE TV HD
-https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/CbKyxbd/MEGATV-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",MEGA TV BOLIVIA HD
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1255491919.m3u8
-
 #EXTINF:-1 tvg-name="CINERAMA TV" tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="CANALES DE BOLIVIA",CINERAMA TV HD
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w918630864.m3u8
-
-#EXTINF:-1 tvg-name="VTV" tvg-logo="https://i.ibb.co/TgMH1jk/VTV-poder-de-dios-hd.jpg" group-title="CANALES DE BOLIVIA",VTV TV HD
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w1270542688.m3u8
-
-#EXTINF:-1 tvg-name="NEO TV" tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",NEO TV HD
-https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
-
-#EXTINF:-1 tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/HnWz5wT/MEGA-TV-YACUIBA.jpg" group-title="CANALES DE BOLIVIA",MEGATV HD
-https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
-
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-name="PAT" tvg-logo="https://i.ibb.co/Q9nfjpX/CRISTAL-HD-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",PAT 
 https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="ESTRELLA TV" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
-
 #EXTINF:-1 tvg-name="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="RED CCTV" tvg-logo="https://i.postimg.cc/P5JqpHF5/HD-cctvboliviacanalhd.jpg" group-title="CANALES DE BOLIVIA",RED CCTV HD
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1672976015.m3u8
-
 #EXTINF:-1 tvg-name="CORAL TV" tvg-logo="https://i.postimg.cc/0Nrp9gyB/CORALTVBOLIVIA.jpg" group-title="CANALES DE BOLIVIA",CORAL TV HD
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="TU TV" tvg-logo="https://i.postimg.cc/0ytNwwrH/TUTVHD.jpg" group-title="CANALES DE BOLIVIA",TU TV HD
 https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w2147213927.m3u8
-
-#EXTINF:-1 tvg-name="TVA TV" tvg-logo="https://i.postimg.cc/52WrZq7k/TVABOLIVIA.jpg" group-title="CANALES DE BOLIVIA",TVA TV HD
-https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
-
 #EXTINF:-1 tvg-name="IMPERIAL TV" tvg-logo="https://i.postimg.cc/zvMWwfLH/imperialtvhd.jpg" group-title="CANALES DE BOLIVIA",IMPERIAL TV HD
-https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
-
-#EXTINF:-1 tvg-name="AYNI TV" tvg-logo="https://i.postimg.cc/gjCcR4vd/AYniXtv1.jpg" group-title="CANALES DE BOLIVIA",AYNI TV HD
-https://stmvideo3.livecastv.com/aynitv/aynitv/chunklist_w239517455.m3u8
-
-#EXTINF:-1 tvg-name="IN TV" tvg-logo="https://i.postimg.cc/7YMS1YHF/INtvxhd.jpg" group-title="CANALES DE BOLIVIA",IN TV HD
-https://stmvideo3.livecastv.com/intv/intv/chunklist_w633704073.m3u8
-
+https://vdo.grupolimalive.com:3226/live/imperlive.m3u8
 #EXTINF:-1 tvg-name="RED AMERICA" tvg-logo="https://i.postimg.cc/2jgpYpNz/redameric01x.jpg" group-title="CANALES DE BOLIVIA",RED AMERICA HD
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
-
-
-#EXTINF:-1 tvg-name="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/W3yN8d9N/SIGLO21-HD.jpg" group-title="CANALES DE BOLIVIA",SIGLO XXI HD
-https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/chunklist_w1009759232.m3u8
-
-
 #EXTINF:-1 tvg-name="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="CANALES DE BOLIVIA",AMITEL TV HD
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="EVENTOS 2" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Eventos Bolivia 2024
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="LATINO KIDS" tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="ANIME Y SERIES",LATINO KIDS HD
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
 #EXTINF:-1 tvg-name="GOGOPLAY " tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="ANIME Y SERIES" tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg" group-title="ANIME Y SERIES",PLANETA TV KIDS HD
 https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1512543000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",ANIME STATION TV HD
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LOGOS TV " tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="ANIME Y SERIES",LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
-
 #EXTINF:-1 tvg-name="GRACIA TV" tvg-logo="https://i.ibb.co/MMGhvkY/GRACIA-TV-HD.jpg" group-title="ANIME Y SERIES",GRACIA TV HD
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="FANPOP HD" tvg-logo="https://i.postimg.cc/vm8YTgqH/FAN-POP-HD.jpg" group-title="ANIME Y SERIES",ENERGEEK FANPOP HD
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/chunks.m3u8
-
 #EXTINF:-1 tvg-name="RETRO TV" tvg-logo="https://i.postimg.cc/Y9mJCtHC/RETRO-HD-ANIME.jpg" group-title="ANIME Y SERIES",ENERGEEK RETRO HD
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
-
 #EXTINF:-1 tvg-name="MONI TV" tvg-logo="https://i.ibb.co/ch1xSz2/MONI-TV-HD.jpg" group-title="ANIME Y SERIES",MONI TV HD
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-
 #EXTINF:-1 tvg-name="MAIGIC KIDS" tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="ANIME Y SERIES",MAGICKIDS TV HD
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
 #EXTINF:-1 tvg-name="VARIES TV" tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",VARIED TV HD
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-
 #EXTINF:-1 tvg-name="PANDAMAX" tvg-logo="https://i.postimg.cc/xdN5BFS0/PANDAMAX-HD.jpg" group-title="ANIME Y SERIES",PANDAMAX TV HD
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
-
 #EXTINF:-1 tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="ANIME Y SERIES",DELTA TV HD
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-
 #EXTINF:-1 tvg-name="MAGICKIDS" tvg-logo="https://i.postimg.cc/kMvg16hg/magictvkids-HD.jpg" group-title="ANIME Y SERIES",MAGICKIDS HD
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
 #EXTINF:-1 tvg-name="RETROMAGICO" tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="ANIME Y SERIES",RETROMAGICO HD
 https://fl1002.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TELE RITMO" tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="MUSICALES",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
 #EXTINF:-1 tvg-name="RETRO PLUS" tvg-logo="https://i.ibb.co/Ht6Tyck/retroplushd.jpg" group-title="MUSICALES",RETRO PLUS HD
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1431187379.m3u8
-
 #EXTINF:-1 tvg-name="RETRO PLUS LATINO" tvg-logo="https://i.ibb.co/v1fXrGT/retropluslatino.jpg" group-title="MUSICALES",RETRO PLUS LATINO HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1805510092.m3u8
-
 #EXTINF:-1 tvg-name="KPOP" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
 https://fl1002.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
