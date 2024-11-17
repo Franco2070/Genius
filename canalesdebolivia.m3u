@@ -121,7 +121,7 @@ https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/canalmulti24/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="ATV" tvg-name="ATV", ATV
 https://fl1002.bozztv.com/ssh101/dni001/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Movistar Pe" tvg-name="Movistar Pe",Movistar Pe
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Movis Pe" tvg-name="Movis Pe",MovisPe
 https://fl1002.bozztv.com/ssh101/dni014/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Mega TV" tvg-name="Mega TV", Mega TV
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
@@ -129,6 +129,8 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/sulatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Mega TV Peru" tvg-name="Mega TV Peru", Mega TV Peru
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="TeleF" tvg-name="TeleF",TeleF
+https://fl1002.bozztv.com/ssh101/streamtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/eg-retro-3.png" group-title="Chile" tvg-id="EnerGeekRetro" tvg-name="EnerGeek Retro", EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
