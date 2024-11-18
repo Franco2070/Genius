@@ -37,8 +37,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CROM Tv" tvg-name="CROM Tv",CROM Tv
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Coco Tv" tvg-name="Coco Tv",Coco Tv
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="HM TV" tvg-name="HM TV",HM TV
@@ -233,7 +231,7 @@ https://v2.tustreaming.cl/radioamericatv/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/chilevisual.png" group-title="Chile" tvg-id="ChileVisualCl" tvg-name="Chilevisual Classic", Chilevisual Classic
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unitel" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="CANALES DE BOLIVIA", Unitel
+#EXTINF:-1 tvg-name="Unibol" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="CANALES DE BOLIVIA", Unibol
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Megavision" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",Megavision
 https://video.live.com.bo:3999/live/megavisionlive.m3u8?WebM3UCL
