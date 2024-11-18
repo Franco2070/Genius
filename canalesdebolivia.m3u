@@ -17,6 +17,8 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Neo TV" tvg-name="Neo TV",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="BayresTV" tvg-name="BayresTV", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GTV" tvg-name="GTV",GTV
@@ -81,6 +83,8 @@ https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/wowchannelsd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OpinaSur TV" tvg-name="OpinaSur TV", OpinaSur TV
 https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Bombi TV" tvg-name="Bombi TV",Bombi TV
+https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w944801354.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
