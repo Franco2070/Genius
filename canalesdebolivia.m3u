@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Delta Tv" tvg-name="Delta TV", Delta TV
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cinerama" tvg-name="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
@@ -285,14 +287,14 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-name="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+#EXTINF:-1 tvg-name="Unica TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",Unica TV HD
+https://edge1o.live.opencaster.com/caster/pjAxrzvGsvFf.m3u8
 #EXTINF:-1 tvg-name="PUNATA HD" tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE PUNATA HD
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 #EXTINF:-1 tvg-name="CEACOM HD" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CINERAMA TV" tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="CANALES DE BOLIVIA",CINERAMA TV HD
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV TV" tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="CANALES DE BOLIVIA",PTV TV HD
+https://ssh101-fl.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="PAT" tvg-logo="https://i.ibb.co/Q9nfjpX/CRISTAL-HD-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",PAT 
 https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESTRELLA TV" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
