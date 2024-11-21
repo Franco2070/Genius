@@ -67,8 +67,8 @@ https://fl1002.bozztv.com/ssh101/imperiotvcanal6/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/mascineclasico/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal Garavito" tvg-name="Canal Garavito",Canal Garavito
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAX HD" tvg-name="MAX HD", MAX HD
-https://fl1002.bozztv.com/ssh101/maxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Buin TV" tvg-name="Buin TV", Buin TV
+https://bst.buin.cl/0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RED Digital" tvg-name="RED Digital", RED Digital
 https://fl1002.bozztv.com/ssh101/reddigital/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Puro Sur" tvg-name="Puro Sur", Puro Sur
@@ -87,6 +87,22 @@ https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w944801354.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
+https://vsd92.okcdn.ru/hls/3162672728794.m3u8/sig/hGlaInUmQx4/expires/1732287714177/srcIp/131.0.198.70/urls/185.226.52.100/clientType/0/srcAg/CHROME/mid/4027284528858/3162672728794_high/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
+https://s2.tvdatta.com:3858/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
+https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Angeles TV" tvg-name="Angeles TV", Angeles TV
+https://fl1002.bozztv.com/ssh101/angelestv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
+https://fl1002.bozztv.com/ssh101/playmedios/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PletNet" tvg-name="PletNet", PletNet
+https://fl1002.bozztv.com/ssh101/pletnettv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TCB" tvg-name="TCB", TCB
+https://fl1002.bozztv.com/ssh101/tcbstreaming/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV HD 211" tvg-name="TV HD 211", TV HD 211
+https://fl1002.bozztv.com/ssh101/tvhd211/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
