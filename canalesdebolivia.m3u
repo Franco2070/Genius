@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Orbit TV" tvg-name="Orbit TV",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cinerama" tvg-name="Cinerama",Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -85,6 +85,8 @@ https://fl1002.bozztv.com/ssh101/wowchannelsd/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Bombi TV" tvg-name="Bombi TV",Bombi TV
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w944801354.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
+https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
