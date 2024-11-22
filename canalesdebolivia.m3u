@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE" tvg-name="MY TIME MOVIE", MY TIME MOVIE
+https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Delta Tv" tvg-name="Delta TV", Delta TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -45,6 +45,8 @@ https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w944801354.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Buin TV" tvg-name="Buin TV", Buin TV
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="STV" tvg-name="STV", STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -129,6 +131,10 @@ https://mc.servidor.stream:19360/8274/8274.m3u8
 https://fl1002.bozztv.com/ssh101/goretro/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVC EL SALVADOR" tvg-name="TVC EL SALVADOR", TVC EL SALVADOR
 https://glb.bozztv.com/glb/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Telesistema" tvg-name="Telesistema", Telesistema
+https://fl1004.bozztv.com/ssh101/telesistemacrtv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
