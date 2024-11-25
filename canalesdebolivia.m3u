@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE" tvg-name="MY TIME MOVIE", MY TIME MOVIE
-https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE MX" tvg-name="MY TIME MOVIE MX", MY TIME MOVIE MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Delta Tv" tvg-name="Delta TV", Delta TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -90,11 +92,9 @@ https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
-https://vsd92.okcdn.ru/hls/3162672728794.m3u8/sig/hGlaInUmQx4/expires/1732287714177/srcIp/131.0.198.70/urls/185.226.52.100/clientType/0/srcAg/CHROME/mid/4027284528858/3162672728794_high/index.m3u8
+https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Angeles TV" tvg-name="Angeles TV", Angeles TV
-https://fl1002.bozztv.com/ssh101/angelestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
 https://fl1002.bozztv.com/ssh101/playmedios/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PletNet" tvg-name="PletNet", PletNet
