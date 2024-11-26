@@ -3,8 +3,6 @@
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
 https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
-https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -159,6 +157,8 @@ https://fl1004.bozztv.com/ssh101/tvcdstreaming/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/rtvpurosurperu/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Orbit TV" tvg-name="Orbit TV", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
+https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
@@ -191,7 +191,7 @@ https://fl1004.bozztv.com/ssh101/canallms/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="EnerGeek" tvg-name="Oromar", OROMAR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="EnerGeek" tvg-name="Oromar",Canal 7 Salta
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Canal Salta" tvg-name="Canal Salta",Canal 7 Salta
 https://fl1002.bozztv.com/ssh101/canal7salta/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Canal 7 Salta" tvg-name="Canal 7 Salta", TeleMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
@@ -219,6 +219,12 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist_w765356305.m3u8
 https://fl1004.bozztv.com/ssh101/maxi013/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Turcas" tvg-name="Turcas",Turcas
 https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-logo="" group-title="Variados",Sport
+https://fl1004.bozztv.com/ssh101/zoytvsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sport2" tvg-logo="" group-title="Variados",Sport2
+https://fl1002.bozztv.com/ssh101/zoytvsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sport3" tvg-logo="" group-title="Variados",Sport3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/eg-retro-3.png" group-title="Chile" tvg-id="EnerGeekRetro" tvg-name="EnerGeek Retro", EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
