@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
-https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
+https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name=Studio",Studio
+https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -63,6 +65,8 @@ https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/apaninestv02/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 20" tvg-name="Canal 20", Canal 20
 https://fl1002.bozztv.com/ssh101/canal20hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UVA TV" tvg-name="UVA TV", UVA TV
+https://fl1004.bozztv.com/ssh101/tvhduva/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Comunicaciones" tvg-name="Comunicaciones", Comunicaciones
 https://fl1002.bozztv.com/ssh101/comunicaciones/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Dimelo TV" tvg-name="Dimelo TV",Dimelo TV
@@ -145,6 +149,14 @@ https://fl1004.bozztv.com/ssh101/maxhd/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/rftvsarapiqui/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WIZZI TV" tvg-name="WIZZI TV",  WIZZI TV
 https://fl1004.bozztv.com/ssh101/wizziplay/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Guaymate" tvg-name="Guaymate",Guaymate
+https://fl1004.bozztv.com/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Telemix" tvg-name="Telemix",Telemix
+https://fl1004.bozztv.com/ssh101/telemixlive/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVCD" tvg-name="TVCD",TVCD
+https://fl1004.bozztv.com/ssh101/tvcdstreaming/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PuroSur" tvg-name="PuroSur",PuroSur
+https://fl1004.bozztv.com/ssh101/rtvpurosurperu/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Orbit TV" tvg-name="Orbit TV", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
@@ -205,6 +217,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist_w765356305.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Willax" tvg-name="Willax",Willax
 https://fl1004.bozztv.com/ssh101/maxi013/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Turcas" tvg-name="Turcas",Turcas
+https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/eg-retro-3.png" group-title="Chile" tvg-id="EnerGeekRetro" tvg-name="EnerGeek Retro", EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
@@ -309,6 +323,12 @@ https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Unibol" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="CANALES DE BOLIVIA", Unibol
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sport2" tvg-logo="" group-title="CANALES DE BOLIVIA",Sport2
+https://fl1002.bozztv.com/ssh101/zoytvsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport3" tvg-logo="" group-title="CANALES DE BOLIVIA",Sport3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport" tvg-logo="" group-title="CANALES DE BOLIVIA",Sport
+https://fl1004.bozztv.com/ssh101/zoytvsports/playlist.m3u8
 #EXTINF:-1 tvg-name="Megavision" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",Megavision
 https://video.live.com.bo:3999/live/megavisionlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-name="BOLIVISION LPZ" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
@@ -323,7 +343,7 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-name="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://video.live.com.bo:3003/live/tvuumsalive.m3u8
-#EXTINF:-1 tvg-name="RA TV" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="RA TV",RA TV
+#EXTINF:-1 tvg-name="RA TV" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",RA TV
 https://fl1004.bozztv.com/ssh101/ratvbol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SEO TV"tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV 
 https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
