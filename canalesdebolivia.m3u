@@ -1,20 +1,18 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Orbit TV" tvg-name="Orbit TV", Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
+https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVS LIVE" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
 https://vsd81.okcdn.ru/hls/3288611883722.m3u8/sig/nOYJPYNyv98/expires/1732734602142/srcIp/131.0.198.70/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/4428538453706/video.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
-https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV & TV" tvg-name="TV & TV",TV & TV
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w360752080.m3u8
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DODO TV" tvg-name="DODO TV", DODO TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GenTV" tvg-name="GenTV Digital", GenTV Digital
@@ -40,9 +38,9 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="FM TV" tvg-name="FM TV", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Retro Plus" tvg-name="Retro Plus", Retro Plus
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w602424988.m3u8
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="+Cine Classic" tvg-name="+Cine Classic", +Cine Classic
-https://fl1002.bozztv.com/ssh101/mascineclasico/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/mascineclasico/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV Movies" tvg-name="SEO TV Movies",SEO TV Movies
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Bombi TV" tvg-name="Bombi TV",Bombi TV
@@ -62,35 +60,35 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
 https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Apanines" tvg-name="Apanines", Apanines
-https://fl1002.bozztv.com/ssh101/apaninestv02/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/apaninestv02/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 20" tvg-name="Canal 20", Canal 20
-https://fl1002.bozztv.com/ssh101/canal20hd/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/canal20hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Comunicaciones" tvg-name="Comunicaciones", Comunicaciones
-https://fl1002.bozztv.com/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/comunicaciones/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Dimelo TV" tvg-name="Dimelo TV",Dimelo TV
-https://fl1002.bozztv.com/ssh101/dimelotvrd/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="JBR" tvg-name="JBR",JBR
-https://fl1002.bozztv.com/ssh101/elmagotv2/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fortuna TV" tvg-name="Fortuna TV",Fortuna TV
-https://fl1002.bozztv.com/ssh101/fortunatve/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/fortunatve/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Imperio TV" tvg-name="Imperio TV", Imperio TV
-https://fl1002.bozztv.com/ssh101/imperiotvcanal6/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/imperiotvcanal6/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal Garavito" tvg-name="Canal Garavito",Canal Garavito
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RED Digital" tvg-name="RED Digital", RED Digital
-https://fl1002.bozztv.com/ssh101/reddigital/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/reddigital/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TAL TAL" tvg-name="TAL TAL",TAL TAL
-https://fl1004.bozztv.com/ssh101/animacion/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ssh101/animacion/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SS TV" tvg-name="SS TV", SS TV
-https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Totovision" tvg-name="Totovision", Totovision
-https://fl1002.bozztv.com/ssh101/totovision/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/totovision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Interconectv" tvg-name="Interconectv",Interconectv
-https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/tv123456789/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WOW Movies" tvg-name="WOW Movies",WOW Movies
-https://fl1002.bozztv.com/ssh101/wowchannelsd/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OpinaSur TV" tvg-name="OpinaSur TV", OpinaSur TV
-https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
@@ -98,13 +96,13 @@ https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
-https://fl1002.bozztv.com/ssh101/playmedios/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/playmedios/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PletNet" tvg-name="PletNet", PletNet
-https://fl1002.bozztv.com/ssh101/pletnettv/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/pletnettv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TCB" tvg-name="TCB", TCB
-https://fl1002.bozztv.com/ssh101/tcbstreaming/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/tcbstreamingplaylist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV HD 211" tvg-name="TV HD 211", TV HD 211
-https://fl1002.bozztv.com/ssh101/tvhd211/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/tvhd211/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Romance Channel" tvg-name="Romance Channel",Romance Channel 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Romantico" tvg-name="Cine Romantico",Cine Romantico
@@ -128,7 +126,7 @@ https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="FORO TV" tvg-name="FORO TV", FORO TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GO RETRO" tvg-name="GO RETRO", GO RETRO
-https://fl1002.bozztv.com/ssh101/goretro/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/goretro/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVC EL SALVADOR" tvg-name="TVC EL SALVADOR", TVC EL SALVADOR
 https://glb.bozztv.com/glb/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Telesistema" tvg-name="Telesistema", Telesistema
@@ -142,11 +140,13 @@ https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CATASTROFE" tvg-name="CATASTROFE", CATASTROFE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAX HD" tvg-name="MAX HD", MAX HD
-https://fl1004.bozztv.com/ssh101/maxhd/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ssh101/maxhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RF TV" tvg-name="RF TV", RF TV
-https://fl1004.bozztv.com/ssh101/rftvsarapiqui/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ssh101/rftvsarapiqui/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WIZZI TV" tvg-name="WIZZI TV",  WIZZI TV
-https://fl1004.bozztv.com/ssh101/wizziplay/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ssh101/wizziplay/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Orbit TV" tvg-name="Orbit TV", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
