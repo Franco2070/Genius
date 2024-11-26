@@ -10,9 +10,9 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVS LIVE" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
-https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
+https://vsd81.okcdn.ru/hls/3288611883722.m3u8/sig/nOYJPYNyv98/expires/1732734602142/srcIp/131.0.198.70/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/4428538453706/video.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
-https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV & TV" tvg-name="TV & TV",TV & TV
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w360752080.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DODO TV" tvg-name="DODO TV", DODO TV
