@@ -10,7 +10,7 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVS LIVE" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
-https://vsd81.okcdn.ru/hls/3288611883722.m3u8/sig/nOYJPYNyv98/expires/1732734602142/srcIp/131.0.198.70/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/4428538453706/video.m3u8
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV & TV" tvg-name="TV & TV",TV & TV
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DODO TV" tvg-name="DODO TV", DODO TV
@@ -94,7 +94,7 @@ https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
-https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
+https://fl1002.bozztv.com/ssh101/tv2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
@@ -127,20 +127,14 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="FORO TV" tvg-name="FORO TV", FORO TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GO RETRO" tvg-name="GO RETRO", GO RETRO
-https://fl1002.bozztv.com/ssh101/goretro/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 8" tvg-name="Canal 8",Canal 8
+https://fl1004.bozztv.com/ssh101/ctv8hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVC EL SALVADOR" tvg-name="TVC EL SALVADOR", TVC EL SALVADOR
 https://glb.bozztv.com/glb/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Telesistema" tvg-name="Telesistema", Telesistema
 https://fl1004.bozztv.com/ssh101/telesistemacrtv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE MX" tvg-name="MY TIME MOVIE MX", MY TIME MOVIE MX
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Nosara" tvg-name="TV Nosara", TV Nosara
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CATASTROFE" tvg-name="CATASTROFE", CATASTROFE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAX HD" tvg-name="MAX HD", MAX HD
 https://fl1004.bozztv.com/ssh101/maxhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RF TV" tvg-name="RF TV", RF TV
@@ -159,6 +153,24 @@ https://fl1004.bozztv.com/ssh101/rtvpurosurperu/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PandoNet" tvg-name="PandoNet",PandoNet
+https://fl1002.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Pilar HD" tvg-name="Pila HD",Pilar HD
+https://fl1002.bozztv.com/ssh101/pilarensehd/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Teleposadas" tvg-name="Teleposadas",Teleposadas
+https://fl1002.bozztv.com/ssh101/teleposadas77/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Makins" tvg-name="Makins",Makins
+https://fl1002.bozztv.com/ssh101/makins/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Inter TV" tvg-name="Inter TV",Inter TV
+https://fl1004.bozztv.com/ssh101/laintertv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tvisa" tvg-name="Tvisa",Tvisa
+https://fl1002.bozztv.com/ssh101/oktvenvivo/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CATASTROFE" tvg-name="CATASTROFE", CATASTROFE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE MX" tvg-name="MY TIME MOVIE MX", MY TIME MOVIE MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
