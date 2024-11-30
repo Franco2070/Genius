@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Son" tvg-name="Cine Son",Cine Son
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
 https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Aurora" tvg-name="Aurora",Aurora
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -47,6 +51,8 @@ https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w944801354.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Buin TV" tvg-name="Buin TV", Buin TV
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vision Dorada" tvg-name="Vision Dorada",Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="STV" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Delta Tv" tvg-name="Delta TV", Delta TV
@@ -55,10 +61,6 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Movie Feo" tvg-name="Movie Fe",Movie Fe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
-https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Apanines" tvg-name="Apanines", Apanines
 https://fl1002.bozztv.com/ssh101/apaninestv02/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 20" tvg-name="Canal 20", Canal 20
@@ -153,8 +155,10 @@ https://fl1004.bozztv.com/ssh101/rtvpurosurperu/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PandoNet" tvg-name="PandoNet",PandoNet
-https://fl1002.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CincoTV" tvg-name="CincoTV",CincoTV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CosmosTV" tvg-name="CosmosTV",CosmosTV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Pilar HD" tvg-name="Pila HD",Pilar HD
 https://fl1002.bozztv.com/ssh101/pilarensehd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Teleposadas" tvg-name="Teleposadas",Teleposadas
@@ -165,6 +169,52 @@ https://fl1002.bozztv.com/ssh101/makins/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/laintertv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tvisa" tvg-name="Tvisa",Tvisa
 https://fl1002.bozztv.com/ssh101/oktvenvivo/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 34" tvg-name="Canal 34",Canal 34
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 8" tvg-name="Canal 8",Canal 8
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Metro TV" tvg-name="Metro TV",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayTV" tvg-name="PlayTV",PlayTV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Infinita" tvg-name="Infinita",Infinita
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Contivision" tvg-name="Contivision",Contivision
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Intercable" tvg-name="Intercable",Intercable
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="NIM TV" tvg-name="NIM TV",NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Sol TV" tvg-name="Sol TV",Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SAS" tvg-name="SAS",SAS
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TeleFlorencia" tvg-name="TeleFlorencia",TeleFlorencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MetaVersus" tvg-name="MetaVersus",MetaVersus
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MultiZonas" tvg-name="MultiZonas",MultiZonas
+https://cloudvideo.servers10.com:8081/8068/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TelesurTV" tvg-name="TelesurTV",TelesurTV
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 3" tvg-name="Canal 3",Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Asmar TV" tvg-name="Asmar TV",Asmar TV
+https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Chinola TV" tvg-name="Chinola TV",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Dom" tvg-name="TV Dom",TV Dom 
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Evolucion" tvg-name="Evolucion",Evolucion
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Infinito TV" tvg-name="Infinito TV",Infinito TV
+https://vdo1.streamgato.us:3057/live/infinitotvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal DA" tvg-name="Canal DA",Canal DA
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Movie Feo" tvg-name="Movie Fe",Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
+https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CATASTROFE" tvg-name="CATASTROFE", CATASTROFE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
@@ -200,6 +250,18 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="LMS" tvg-name="LMS",LMS
 https://fl1004.bozztv.com/ssh101/canallms/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="NeoxTV" tvg-name="NeoxTV",NeoxTV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Tele5" tvg-name="Tele5",Tele5
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="NicoyaTV" tvg-name="NicoyaTV",NicoyaTV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Zurqui" tvg-name="Zurqui",Zurqui
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="NorSelva" tvg-name="NorSelva",NorSelva
+https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="EnerGeek" tvg-name="Oromar", OROMAR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
@@ -209,8 +271,8 @@ https://fl1002.bozztv.com/ssh101/canal7salta/tracks-v1a1/mono.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Canal Multi" tvg-name="Canal Multi", Canal Multi
 https://fl1002.bozztv.com/ssh101/canalmulti24/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="ATV" tvg-name="ATV", ATV
-https://fl1002.bozztv.com/ssh101/dni001/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Neuquen 7" tvg-name="Neuquen 7",Neuquen 7
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Movis Pe" tvg-name="Movis Pe",MovisPe
 https://fl1002.bozztv.com/ssh101/dni014/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Mega TV" tvg-name="Mega TV", Mega TV
@@ -229,6 +291,10 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist_w765356305.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Willax" tvg-name="Willax",Willax
 https://fl1004.bozztv.com/ssh101/maxi013/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Canal 6" tvg-name="Canal 6",Canal 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-audio_0=64000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Canal 21" tvg-name="Canal 21",Canal 21
+https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Turcas" tvg-name="Turcas",Turcas
 https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sport" tvg-logo="" group-title="Variados",Sport
@@ -339,8 +405,10 @@ https://v2.tustreaming.cl/radioamericatv/index.m3u8
 #EXTINF:-1  tvg-logo="https://Chile.cl/assets/img/channels/chilevisual.png" group-title="Chile" tvg-id="ChileVisualCl" tvg-name="Chilevisual Classic", Chilevisual Classic
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unibol" tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="CANALES DE BOLIVIA", Unibol
+#EXTINF:-1 tvg-name="Unibol" tvg-logo="" group-title="CANALES DE BOLIVIA", Unibol
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ATB" tvg-logo="" group-title="CANALES DE BOLIVIA",ATB
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-name="Megavision" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",Megavision
 https://video.live.com.bo:3999/live/megavisionlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-name="BOLIVISION LPZ" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
@@ -427,5 +495,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1431187379.m3u8
 #EXTINF:-1 tvg-name="RETRO PLUS LATINO" tvg-logo="https://i.ibb.co/v1fXrGT/retropluslatino.jpg" group-title="MUSICALES",RETRO PLUS LATINO HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1805510092.m3u8
-#EXTINF:-1 tvg-name="KPOP" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
-https://fl1002.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Activa" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",Activa
+https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8?tkn=4277347009
+#EXTINF:-1 tvg-name="La Mia" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",La Mia
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Urbano TV" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
