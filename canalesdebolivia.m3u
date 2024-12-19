@@ -102,7 +102,7 @@ https://fl1004.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
-https://fl1004.bozztv.com/ssh101/tv2024/tracks-v1a1/mono.m3u8
+https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
