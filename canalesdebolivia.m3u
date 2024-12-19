@@ -5,6 +5,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio 2" tvg-name="Studio 2",Studio 2
 https://fl1004.bozztv.com/ssh101/zoytvfamily/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio 3" tvg-name="Studio 2",Studio 3
+https://glb.bozztv.com/glb/ushba0/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -87,6 +89,12 @@ https://fl1004.bozztv.com/ssh101/sarapiquistreaming.cr/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/totovision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Interconectv" tvg-name="Interconectv",Interconectv
 https://fl1004.bozztv.com/ssh101/tv123456789/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="InterActiva" tvg-name="InterActiva",InterActiva
+https://fl1004.bozztv.com/ssh101/gabostreaminghd/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Star" tvg-name="Cine Star",Cine Star
+https://fl1004.bozztv.com/ssh101/cinestarteve/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="La Mix" tvg-name="La Mix",La Mix
+https://fl1004.bozztv.com/ssh101/lamixtv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WOW Movies" tvg-name="WOW Movies",WOW Movies
 https://fl1004.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OpinaSur TV" tvg-name="OpinaSur TV", OpinaSur TV
@@ -191,6 +199,8 @@ https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SuperCable" tvg-name="SuperCable",SuperCable
 https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Lunavision" tvg-name="Lunavision",Lunavision
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MetaVersus" tvg-name="MetaVersus",MetaVersus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MultiZonas" tvg-name="MultiZonas",MultiZonas
@@ -225,6 +235,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="ONDA TV" tvg-name="ONDA TV",ONDA TV
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="NeoxTV" tvg-name="NeoxTV",NeoxTV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Clarovision" tvg-name="Clarovision",Clarovision
@@ -298,8 +310,6 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="LMS" tvg-name="LMS",LMS
 https://fl1004.bozztv.com/ssh101/canallms/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="NeoxTV" tvg-name="NeoxTV",NeoxTV
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Tele5" tvg-name="Tele5",Tele5
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
