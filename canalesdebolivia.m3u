@@ -35,12 +35,16 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://fl1004.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cinerama" tvg-name="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vision TV" tvg-name="Vision TV",Vision TV
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVS Retro" tvg-name="TVS Retro",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vision TV" tvg-name="Vision TV Live",Vision TV Live
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="FM TV" tvg-name="FM TV", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Infinita" tvg-name="Infinita",Infinita
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
+https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Retro Plus" tvg-name="Retro Plus", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV Movies" tvg-name="SEO TV Movies",SEO TV Movies
@@ -85,8 +89,6 @@ https://fl1004.bozztv.com/ssh101/reddigital/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/animacion/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SS TV" tvg-name="SS TV", SS TV
 https://fl1004.bozztv.com/ssh101/sarapiquistreaming.cr/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Totovision" tvg-name="Totovision", Totovision
-https://fl1004.bozztv.com/ssh101/totovision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Interconectv" tvg-name="Interconectv",Interconectv
 https://fl1004.bozztv.com/ssh101/tv123456789/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="InterActiva" tvg-name="InterActiva",InterActiva
@@ -103,8 +105,6 @@ https://fl1004.bozztv.com/ssh101/opinionsur/playlist.m3u8
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
 https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GM7" tvg-name="GM7", GM7
-https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
 https://fl1004.bozztv.com/ssh101/playmedios/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PletNet" tvg-name="PletNet", PletNet
@@ -163,8 +163,6 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayTV" tvg-name="PlayTV",PlayTV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Infinita" tvg-name="Infinita",Infinita
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Contivision" tvg-name="Contivision",Contivision
 https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Intercable" tvg-name="Intercable",Intercable
@@ -191,6 +189,8 @@ https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Lunavision" tvg-name="Lunavision",Lunavision
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Totovision" tvg-name="Totovision", Totovision
+https://fl1004.bozztv.com/ssh101/totovision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MetaVersus" tvg-name="MetaVersus",MetaVersus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MultiZonas" tvg-name="MultiZonas",MultiZonas
@@ -228,7 +228,11 @@ https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="NeoxTV" tvg-name="NeoxTV",NeoxTV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="LIKE TV",LIKE TV
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="Telesur Moquehua",TeleSur Moquehua
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="RSelva TV",RSelva TV
+https://live.obslivestream.com/selvatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Clarovision" tvg-name="Clarovision",Clarovision
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vallevision" tvg-name="Vallevision",Vallevision
