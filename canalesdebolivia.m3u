@@ -5,8 +5,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio 2" tvg-name="Studio 2",Studio 2
 https://fl1004.bozztv.com/ssh101/zoytvfamily/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio 3" tvg-name="Studio 2",Studio 3
-https://fl1004.bozztv.com/ssh101/zoytvkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -39,6 +37,8 @@ https://fl1004.bozztv.com/ssh101/dititv/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vision TV" tvg-name="Vision TV",Vision TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vision TV" tvg-name="Vision TV Live",Vision TV Live
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="FM TV" tvg-name="FM TV", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Retro Plus" tvg-name="Retro Plus", Retro Plus
@@ -113,16 +113,6 @@ https://fl1004.bozztv.com/ssh101/pletnettv/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/tcbstreamingplaylist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV HD 211" tvg-name="TV HD 211", TV HD 211
 https://fl1004.bozztv.com/ssh101/tvhd211/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CROM Tv" tvg-name="CROM Tv",CROM Tv
-https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="HM TV" tvg-name="HM TV",HM TV
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GH Televisión" tvg-name="GH Televisión",GH Televisión
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PH tv" tvg-name="PH tv",PH tv
-https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punta Cana tv" tvg-name="Punta Cana tv",Punta Cana tv
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Ciudad Magica" tvg-name="Ciudad Magica", Ciudad Magica
 https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Multivision" tvg-name="Multivision",Multivision
@@ -281,6 +271,16 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Romantico" tvg-name="Cine Romantico",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CROM Tv" tvg-name="CROM Tv",CROM Tv
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="HM TV" tvg-name="HM TV",HM TV
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GH Televisión" tvg-name="GH Televisión",GH Televisión
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PH tv" tvg-name="PH tv",PH tv
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punta Cana tv" tvg-name="Punta Cana tv",Punta Cana tv
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1004.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
