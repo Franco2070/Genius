@@ -3,8 +3,10 @@
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio 2" tvg-name="Studio 2",Studio 2
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio 2",Studio 2
 https://fl1004.bozztv.com/ssh101/zoytvfamily/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio 3",Studio 3
+https://fl1004.bozztv.com/ssh101/zoytvkids/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -71,6 +73,8 @@ https://fl1004.bozztv.com/ssh101/apaninestv02/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/canal20hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UVA TV" tvg-name="UVA TV", UVA TV
 https://fl1004.bozztv.com/ssh101/tvhduva/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UVA TV" tvg-name="MAX HD", MAX HD
+https://fl1004.bozztv.com/ssh101/maxhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Comunicaciones" tvg-name="Comunicaciones", Comunicaciones
 https://fl1004.bozztv.com/ssh101/comunicaciones/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DRE TV" tvg-name="RE TV",RE TV
