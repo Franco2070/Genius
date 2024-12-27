@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Son" tvg-name="Cine Son",Cine Son
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UPEA" tvg-name="UPEA",UPEA
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio 2",Studio 2
@@ -300,6 +302,8 @@ https://fl1004.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ssh101/teleredmastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Palmares" tvg-name="Retro Palmares", Retro Palmares
 https://fl1004.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Tigueritos" tvg-name="Tigueritos",Tigueritos
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="TeleClasica" tvg-name="FUN TV", FUN TV
 https://fl1004.bozztv.com/ssh101/funtvretro/tracks-v1a1/mono.m3u8 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Magico tv" tvg-name="Retro Magico tv", Retro Magico tv
