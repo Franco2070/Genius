@@ -71,6 +71,18 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Apanines" tvg-name="Apanines", Apanines
 https://fl1004.bozztv.com/ssh101/apaninestv02/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Caracola" tvg-name="Caracola",Caracola
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Atacama" tvg-name="Atacama",Atacama
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Melinkana" tvg-name="Melinkana",Melinkana
+https://v1.tustreaming.cl/melinkana/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal Latino" tvg-name="Canal Latino",Canal Latino
+https://videostream.chileservidores.com:8081/latina/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Alfa TV" tvg-name="Alfa TV",Alfa TV
+https://v2.tustreaming.cl/alfatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="EvaRetro" tvg-name="EvaRetro",EvaRetro
+https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal 20" tvg-name="Canal 20", Canal 20
 https://fl1004.bozztv.com/ssh101/canal20hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UVA TV" tvg-name="UVA TV", UVA TV
