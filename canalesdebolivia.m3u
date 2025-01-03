@@ -119,8 +119,6 @@ https://fl1004.bozztv.com/ssh101/lamixtv/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OpinaSur TV" tvg-name="OpinaSur TV", OpinaSur TV
 https://fl1004.bozztv.com/ssh101/opinionsur/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
-https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Películas" tvg-name="TV Películas", Tv películas 
 https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PlayMedios" tvg-name="PlayMedios", PlayMedios
@@ -303,6 +301,12 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Punta Cana tv" tvg-name="Punta Cana tv",Punta Cana tv
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TeleAltura" tvg-name="TeleAltura",TeleAltura
+https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cambyreta TV" tvg-name="Cambyreta TV",Cambyreta TV
+https://fl1004.bozztv.com/ssh101/cambyretatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Angelical TV" tvg-name="Angelical TV",Angelical TV
+https://fl1004.bozztv.com/ssh101/angelestv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1004.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
@@ -373,6 +377,8 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Turcas" tvg-name="Turcas",Turcas
 https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="Punto TV" tvg-name="Punto TV", Punto TV
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="FORO TV" tvg-name="FORO TV", FORO TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="UniTV" tvg-name="UniTV",UniTV
