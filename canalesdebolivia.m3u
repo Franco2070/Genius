@@ -322,7 +322,7 @@ https://fl1004.bozztv.com/ssh101/damoadigital/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fe TV" tvg-name="Fe TV",Fe TV
 https://fl1004.bozztv.com/ssh101/fetv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Reteo" tvg-name="Fun Retro",Fun Retro
-https://fl1004.bozztv.com/ssh101/funtvretro/playlist.m3u8
+https://fl1004.bozztv.com/ssh101/funtvretro/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Este" tvg-name="Fun Este",Fun Este
 https://fl1004.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mi Canal" tvg-name="Mi Canal",Mi Canal
@@ -334,7 +334,7 @@ https://fl1004.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MuniTV" tvg-name="MuniTV",MuniTV
 https://fl1004.bozztv.com/ssh101/munitvenvivo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us1" tvg-name="Us1",Us1
-https://bigembed.mizhls.ru/lb/ustvcw/playlist.m3u8
+http://bigembed.mizhls.ru/lb/ustvcw/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us2" tvg-name="Us2",Us2
 https://bigembed.mizhls.ru/lb/ustvunivision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us3" tvg-name="Us3",Us3
