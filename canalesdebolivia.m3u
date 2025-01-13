@@ -333,8 +333,8 @@ https://fl1004.bozztv.com/ssh101/oasistv123/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MuniTV" tvg-name="MuniTV",MuniTV
 https://fl1004.bozztv.com/ssh101/munitvenvivo/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us1" tvg-name="Us1",Us1
-https://top1new.iosplayer.ru/top1/ustvcw/mono.m3u8?token=none
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Latino Mx" tvg-name="Latino Mx",Latino Mx
+https://dakx5lx3r8kdx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i8te7bkxtxtyk/db4b9975-6550-42d1-9af3-6b4df527e615/0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us2" tvg-name="Us2",Us2
 http://bigembed.mizhls.ru/lb/ustvunivision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us3" tvg-name="Us3",Us3
