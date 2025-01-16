@@ -335,12 +335,6 @@ https://fl1004.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/munitvenvivo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Latino Mx" tvg-name="Latino Mx",Latino Mx
 https://dakx5lx3r8kdx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i8te7bkxtxtyk/db4b9975-6550-42d1-9af3-6b4df527e615/0.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us2" tvg-name="Us2",Us2
-http://bigembed.mizhls.ru/lb/ustvunivision/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us3" tvg-name="Us3",Us3
-http://bigembed.mizhls.ru/lb/ustvcbs/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Us4" tvg-name="Us4",Us4
-http://bigembed.mizhls.ru/lb/ustvaxs/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1004.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
