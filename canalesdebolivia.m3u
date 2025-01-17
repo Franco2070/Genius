@@ -3,6 +3,8 @@
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UPEA" tvg-name="UPEA",UPEA
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVU" tvg-name="TVU",TVU
+https://fl1004.bozztv.com/ssh101/tvu2cbba/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio 2",Studio 2
@@ -335,6 +337,54 @@ https://fl1004.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/munitvenvivo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Latino Mx" tvg-name="Latino Mx",Latino Mx
 https://dakx5lx3r8kdx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i8te7bkxtxtyk/db4b9975-6550-42d1-9af3-6b4df527e615/0.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="74" tvg-name="74",74
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="itv" tvg-name="itv",itv
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream2/chunks.m3u8?nimblesessionid=1210046
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tu TV" tvg-name="Tu TV",TU TV
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Asiri TV" tvg-name="Asiri TV",Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PJTV" tvg-name="PJTV",PJTV
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV Color" tvg-name="TV Color",TV Color
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="VOS TV" tvg-name="VOD TV",VOS TV
+https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Ansoategui" tvg-name="Ansoategui",Ansoategui
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antares" tvg-name="Antares",Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Autentica" tvg-name="Autentica",Autentica
+https://live.obslivestream.com/autenticatvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Genius" tvg-name="Genius",Genius
+https://live.obslivestream.com/geniostvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Impacto" tvg-name="Impacto",Impacto
+https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cable Pe" tvg-name="Cable Pe",Cable Pe
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Jntv" tvg-name="Jntv",Jntv
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Nativa" tvg-name="Nativa",Nativa
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RadioStar" tvg-name="RadioStar",RadioStar
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RN" tvg-name="RN",RN
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="stream" tvg-name="Stream",Stream
+https://livestream.perucast.com/hls/stream_high.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SCanak" tvg-name="SCanal",SCanal
+https://live.obslivestream.com/supercanal/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TopTV" tvg-name="TopTV",TopTV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tricu" tvg-name="Trivu",Trivu
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Viva" tvg-name="Viva",Viva
+https://live.obslivestream.com/vivatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="VZTV" tvg-name="VZTV",VZTV
+https://live.obslivestream.com/vztv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antena1" tvg-name="Antena1",Antena1
+https://play.agenciastreaming.com:8081/antena1/tracks-a1/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1004.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
