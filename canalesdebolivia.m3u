@@ -56,7 +56,9 @@ https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Retro Plus" tvg-name="Retro Plus", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV Movies" tvg-name="SEO TV Movies",SEO TV Movies
-https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+https://seo.tv.bo/tv/ISEO-TV-4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV" tvg-name="SEO TV",SEO TV
+https://seo.tv.bo/tv/ISEO-TV-1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
