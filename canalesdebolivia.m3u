@@ -13,10 +13,6 @@ https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/tlnnetwork/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PYC TV" tvg-name="PYC TV",PYC TV
 https://fl1004.bozztv.com/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="5" tvg-name="5",5
-https://fl1004.bozztv.com/ssh101/myeventstele5/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="4" tvg-name="4",4
-https://fl1004.bozztv.com/ssh101/myeventscuatro/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Oasis TV" tvg-name="Oasis TV",OASIS TV
 https://fl1004.bozztv.com/ssh101/oasistv123/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
@@ -39,6 +35,8 @@ https://fl1004.bozztv.com/ssh101/gentv/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Moni TV" tvg-name="Moni TV", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Moni TV Kids" tvg-name="Moni TV Kids", Moni TV Kids
+https://fl1004.bozztv.com/ssh101/monitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="+Cine" tvg-name="+Cine", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="+Cine Classic" tvg-name="+Cine Classic", +Cine Classic
