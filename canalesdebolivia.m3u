@@ -9,12 +9,6 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tln" tvg-name="Tln",Tln
-https://fl1004.bozztv.com/ssh101/tlnnetwork/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PYC TV" tvg-name="PYC TV",PYC TV
-https://fl1004.bozztv.com/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Oasis TV" tvg-name="Oasis TV",OASIS TV
-https://fl1004.bozztv.com/ssh101/oasistv123/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
@@ -34,7 +28,7 @@ https://fl1004.bozztv.com/ssh101/gentv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Neo TV" tvg-name="Neo TV",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Moni TV" tvg-name="Moni TV", Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://fl1004.bozztv.com/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Moni TV Kids" tvg-name="Moni TV Kids", Moni TV Kids
 https://fl1004.bozztv.com/ssh101/monitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="+Cine" tvg-name="+Cine", +Cine
@@ -47,6 +41,10 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DIDI TV" tvg-name="DIDI TV",DIDI TV
 https://fl1004.bozztv.com/ssh101/dititv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Reteo" tvg-name="Fun Retro",Fun Retro
+https://fl1004.bozztv.com/ssh101/funtvretro/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Este" tvg-name="Fun Este",Fun Este
+https://fl1004.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cinerama" tvg-name="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TVS Retro" tvg-name="TVS Retro",TVS Retro
@@ -65,6 +63,24 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV" tvg-name="SEO TV",SEO TV
 https://seo.tv.bo/tv/ISEO-TV-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MASTER TV" tvg-name="MASTER TV",MASTER TV
+https://live.obslivestream.com/mastertv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="REGIONAL TV" tvg-name="REGIONAL TV",REGIONAL TV
+https://live.obslivestream.com/regionaltv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MOYOBAMBA" tvg-name="MOYOBAMBA",MOYOBAMBA
+https://live.obslivestream.com/mtv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIBERTAD" tvg-name="LIBERTAD",LIBERTAD
+https://live.obslivestream.com/rtvlibertad/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OZONO" tvg-name="OZONO",OZONO
+https://live.obslivestream.com/ozonotv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV MAS" tvg-name="TV MAS",TV MAS
+https://live.obslivestream.com/tvmas/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CANAL 8" tvg-name="CANAL 8",CANAL 8
+https://live.obslivestream.com/canal8/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV RETRO" tvg-name="TV RETRO",TV RETRO
+https://live.obslivestream.com/tvretro/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GFTV" tvg-name="GFTV",GFTV
+https://live.obslivestream.com/regionaltv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MegaCine TV" tvg-name="MegaCine TV",MegaCine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Planeta TV" tvg-name="Planeta TV", Planeta TV
@@ -281,10 +297,6 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WOW TV" tvg-name="WOW TV",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Altomayo" tvg-name="Altomayo",Altomayo
-https://live.obslivestream.com/viaaltomayomux/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="GFTV" tvg-name="GFTV",GFTV
-https://live.obslivestream.com/regionaltv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OrienteTV" tvg-name="OrienteTV",OrienteTV
 https://live.obslivestream.com/tvoriente/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAS1" tvg-name="MAS1",MAS1
@@ -331,10 +343,6 @@ https://fl1004.bozztv.com/ssh101/canal69/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/damoadigital/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fe TV" tvg-name="Fe TV",Fe TV
 https://fl1004.bozztv.com/ssh101/fetv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Reteo" tvg-name="Fun Retro",Fun Retro
-https://fl1004.bozztv.com/ssh101/funtvretro/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Fun Este" tvg-name="Fun Este",Fun Este
-https://fl1004.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mi Canal" tvg-name="Mi Canal",Mi Canal
 https://fl1004.bozztv.com/ssh101/micanalenvivo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV W" tvg-name="TV W",TV W
@@ -361,10 +369,6 @@ https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antares" tvg-name="Antares",Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Autentica" tvg-name="Autentica",Autentica
-https://live.obslivestream.com/autenticatvmux/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Genius" tvg-name="Genius",Genius
-https://live.obslivestream.com/geniostvmux/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Impacto" tvg-name="Impacto",Impacto
 https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cable Pe" tvg-name="Cable Pe",Cable Pe
@@ -377,10 +381,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="RN" tvg-name="RN",RN
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="stream" tvg-name="Stream",Stream
-https://livestream.perucast.com/hls/stream_high.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SCanak" tvg-name="SCanal",SCanal
-https://live.obslivestream.com/supercanal/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TopTV" tvg-name="TopTV",TopTV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tricu" tvg-name="Trivu",Trivu
@@ -389,6 +389,16 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 https://live.obslivestream.com/vivatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="VZTV" tvg-name="VZTV",VZTV
 https://live.obslivestream.com/vztv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SCanak" tvg-name="SCanal",SCanal
+https://live.obslivestream.com/supercanal/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Autentica" tvg-name="Autentica",Autentica
+https://live.obslivestream.com/autenticatvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Genius" tvg-name="Genius",Genius
+https://live.obslivestream.com/geniostvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Altomayo" tvg-name="Altomayo",Altomayo
+https://live.obslivestream.com/viaaltomayomux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="stream" tvg-name="Stream",Stream
+https://livestream.perucast.com/hls/stream_high.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antena1" tvg-name="Antena1",Antena1
 https://play.agenciastreaming.com:8081/antena1/tracks-a1/index.m3u8
 
