@@ -9,8 +9,8 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SRTV" tvg-name="SRTV",SRTV
-https://fl1004.bozztv.com/ssh101/srtv2025/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tln" tvg-name="Tln",Tln
+https://fl1004.bozztv.com/ssh101/tlnnetwork/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PYC TV" tvg-name="PYC TV",PYC TV
 https://fl1004.bozztv.com/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="5" tvg-name="5",5
