@@ -3,8 +3,9 @@
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Hallmrk " tvg-name="Hallmrk ",Hallmrk 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSide
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UPEA" tvg-name="UPEA",UPEA
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CINE D" tvg-name="CINE D",CINE D
+https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
@@ -12,7 +13,7 @@ https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
-https://fl1004.bozztv.com/ssh101/88channel/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
 https://fl1004.bozztv.com/ssh101/mixboliviatvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV & TV" tvg-name="TV & TV",TV & TV
@@ -60,9 +61,11 @@ https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Retro Plus" tvg-name="Retro Plus", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV Movies" tvg-name="SEO TV Movies",SEO TV Movies
-https://seo.tv.bo/tv/ISEO-TV-4.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO TV" tvg-name="SEO TV",SEO TV
-https://seo.tv.bo/tv/ISEO-TV-1.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SEO NOVELAS" tvg-name="SEO NOVELAS",SEO NOVELAS
+https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MASTER TV" tvg-name="MASTER TV",MASTER TV
 https://live.obslivestream.com/mastertv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="REGIONAL TV" tvg-name="REGIONAL TV",REGIONAL TV
@@ -401,6 +404,14 @@ https://live.obslivestream.com/viaaltomayomux/playlist.m3u8
 https://livestream.perucast.com/hls/stream_high.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antena1" tvg-name="Antena1",Antena1
 https://play.agenciastreaming.com:8081/antena1/tracks-a1/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Bolivia Radio tv" tvg-name="Bolivia Radio tv",Bolivia Radio tv
+https://fl1004.bozztv.com/ssh101/radiotvbolivia/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Radio retro" tvg-name="Radio retro",Radio retro
+https://fl1002.bozztv.com/ssh101/radioretromx/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="DOVE" tvg-name="DOVE",DOVE
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PLUTV KIDS" tvg-name="PLUTV KIDS",PLUTV KIDS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988&serverSideAds=false
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://fl1004.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
@@ -488,9 +499,9 @@ https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
 #EXTINF:-1 tvg-name="ImpactoTV" tvg-logo="" group-title="Variados",ImpactoTV
 https://cloudvideo.servers10.com:8081/impactotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport" tvg-logo="" group-title="Variados",Sport
-https://fl1004.bozztv.com/ssh101/zoytvsports/tracks-v1a1/mono.m3u8
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport2" tvg-logo="" group-title="Variados",Sport2
-https://fl1004.bozztv.com/ssh101/zoytvsports2/tracks-v1a1/mono.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&serverSideAds=false
 #EXTINF:-1 tvg-name="Sport3" tvg-logo="" group-title="Variados",Sport3
 https://fl1004.bozztv.com/ssh101/zoytvsports3/tracks-v1a1/mono.m3u8
 
