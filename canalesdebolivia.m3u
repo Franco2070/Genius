@@ -1,17 +1,28 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Son" tvg-name="Cine Son",Cine Son
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE MX" tvg-name="MY TIME MOVIE MX", MY TIME MOVIE MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Hallmrk " tvg-name="Hallmrk ",Hallmrk 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSide
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Romance Channel" tvg-name="Romance Channel",Romance Channel 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Romantico" tvg-name="Cine Romantico",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="UPEA TV " tvg-name="UPEA TV ",UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CINE D" tvg-name="CINE D",CINE D
 https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Movie Feo" tvg-name="Movie Fe",Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
+https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
 https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
@@ -106,6 +117,28 @@ https://fl1004.bozztv.com/ssh101/apaninestv02/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Atacama" tvg-name="Atacama",Atacama
 https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="ODTV" tvg-name="ODTV",ODTV
+https://v4.tustreaming.cl/odtv2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="RSelva TV",RSelva TV
+https://live.obslivestream.com/selvatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OrienteTV" tvg-name="OrienteTV",OrienteTV
+https://live.obslivestream.com/tvoriente/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAS1" tvg-name="MAS1",MAS1
+https://live.obslivestream.com/mas1/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Viva" tvg-name="Viva",Viva
+https://live.obslivestream.com/vivatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="VZTV" tvg-name="VZTV",VZTV
+https://live.obslivestream.com/vztv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SCanak" tvg-name="SCanal",SCanal
+https://live.obslivestream.com/supercanal/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Autentica" tvg-name="Autentica",Autentica
+https://live.obslivestream.com/autenticatvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Genius" tvg-name="Genius",Genius
+https://live.obslivestream.com/geniostvmux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Altomayo" tvg-name="Altomayo",Altomayo
+https://live.obslivestream.com/viaaltomayomux/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="stream" tvg-name="Stream",Stream
+https://livestream.perucast.com/hls/stream_high.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Melinkana" tvg-name="Melinkana",Melinkana
 https://v1.tustreaming.cl/melinkana/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Canal Latino" tvg-name="Canal Latino",Canal Latino
@@ -278,8 +311,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="Telesur Moquehua",TeleSur Moquehua
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="LIKE TV" tvg-name="RSelva TV",RSelva TV
-https://live.obslivestream.com/selvatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Clarovision" tvg-name="Clarovision",Clarovision
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Vallevision" tvg-name="Vallevision",Vallevision
@@ -300,24 +331,10 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="WOW TV" tvg-name="WOW TV",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="OrienteTV" tvg-name="OrienteTV",OrienteTV
-https://live.obslivestream.com/tvoriente/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MAS1" tvg-name="MAS1",MAS1
-https://live.obslivestream.com/mas1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Movie Feo" tvg-name="Movie Fe",Movie Fe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="CESTV", CESTV
-https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CATASTROFE" tvg-name="CATASTROFE", CATASTROFE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TOP CINE" tvg-name="TOP CINE",TOP CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE MX" tvg-name="MY TIME MOVIE MX", MY TIME MOVIE MX
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Romance Channel" tvg-name="Romance Channel",Romance Channel 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Romantico" tvg-name="Cine Romantico",Cine Romantico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CROM Tv" tvg-name="CROM Tv",CROM Tv
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="HM TV" tvg-name="HM TV",HM TV
@@ -334,8 +351,6 @@ https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/cambyretatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Angelical TV" tvg-name="Angelical TV",Angelical TV
 https://fl1004.bozztv.com/ssh101/angelestv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="ODTV" tvg-name="ODTV",ODTV
-https://v4.tustreaming.cl/odtv2/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="AZ Sport" tvg-name="AZ Sport",AZ Sport
 https://fl1004.bozztv.com/ssh101/azadisport/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Big" tvg-name="Big",Big
@@ -388,20 +403,6 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Tricu" tvg-name="Trivu",Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Viva" tvg-name="Viva",Viva
-https://live.obslivestream.com/vivatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="VZTV" tvg-name="VZTV",VZTV
-https://live.obslivestream.com/vztv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="SCanak" tvg-name="SCanal",SCanal
-https://live.obslivestream.com/supercanal/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Autentica" tvg-name="Autentica",Autentica
-https://live.obslivestream.com/autenticatvmux/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Genius" tvg-name="Genius",Genius
-https://live.obslivestream.com/geniostvmux/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Altomayo" tvg-name="Altomayo",Altomayo
-https://live.obslivestream.com/viaaltomayomux/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="stream" tvg-name="Stream",Stream
-https://livestream.perucast.com/hls/stream_high.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Antena1" tvg-name="Antena1",Antena1
 https://play.agenciastreaming.com:8081/antena1/tracks-a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Bolivia Radio tv" tvg-name="Bolivia Radio tv",Bolivia Radio tv
