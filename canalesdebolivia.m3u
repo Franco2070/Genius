@@ -22,7 +22,7 @@ https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Studio" tvg-name="Studio",Studio
-https://fl1004.bozztv.com/ssh101/zoytv/playlist.m3u8
+https://customer-4ouu9izmq01at8oc.cloudflarestream.com/7f70293bfbedeb5fe7bec5b021c9ed5a/manifest/video.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="CW", CW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
