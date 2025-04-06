@@ -17,8 +17,12 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Movie Feo" tvg-name="Movie Fe",Movie Fe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="Telemas", Telemas
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CESTV" tvg-name="Telemas",Telemas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-name="Mega Amazonas",Mega Amazonas
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="Zoy", Zoy
@@ -456,8 +460,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurs/tracks-v1a1/mono
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/canallms/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Tele5" tvg-name="Tele5",Tele5
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Variados" tvg-id="EnerGeek" tvg-name="Oromar", OROMAR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
