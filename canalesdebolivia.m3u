@@ -24,7 +24,7 @@ https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="Zoy", Zoy
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvoxd1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="ZoyTV", ZoyTV
