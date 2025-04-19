@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Son" tvg-name="Boli",Boli
+https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="ZoyTV", ZoyTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="ZoyTVS", ZoyTVS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Cine Son" tvg-name="Cine Son",Cine Son
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="MY TIME MOVIE ES" tvg-name="MY TIME MOVIE ES", MY TIME MOVIE ES
@@ -21,16 +27,10 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-name="Mega Amazonas",Mega Amazonas
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV solidaria" tvg-name="TV solidaria",TV solidaria
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="PRIME",PRIME
-https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="Zoy", Zoy
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvoxd1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="ZoyTV", ZoyTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CW" tvg-name="ZoyTVS", ZoyTVS
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV solidaria" tvg-name="Zuraca TV",Zuraca TV
+https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="PRIME" tvg-name="IMPERIAL TV",IMPERIAL TV
+https://play.agenciastreaming.com:19360/8122/8122.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Mix TV" tvg-name="Mix TV", Mix TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="TV & TV" tvg-name="TV & TV",TV & TV
