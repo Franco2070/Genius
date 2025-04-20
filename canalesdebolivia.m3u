@@ -438,7 +438,9 @@ https://vdo.voxhdnet.com:3159/stream/play.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Asmar" tvg-name="Asmar",Asmar
 https://ss5.domint.net:3034/astv_str/asmartv/chunklist_w1203276478.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="Net" tvg-name="Net",Net
-https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Peliculas" tvg-id="CPN" tvg-name="CPN",CPN
+https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Retro TV" tvg-id="Retro Tv ONLINE" tvg-name="Retro Tv ONLINE", Retro Tv ONLINE
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
